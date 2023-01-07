@@ -230,6 +230,7 @@ function getUpdateProduct(id) {
             showConfirmButton: false,
             timer: 1500
           })
+
         document.getElementById('updatedProductForm').reset();
         fetchProductList();
         
