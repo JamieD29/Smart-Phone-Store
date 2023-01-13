@@ -8,15 +8,15 @@
 
 All functions in this page: 
 
--User can add their favourite items to cart
+* User can add their favourite items to cart
 
--Regarding cart, user can remove the item and also increase or decrease the number of item (maximum 10).
-  -Remove all the items into cart
-  -Pay receipts that include the total of the number of items purchased and the price of each item. 
+* Regarding cart, user can remove the item and also increase or decrease the number of item (maximum 10).
+  * Remove all the items into cart
+  * Pay receipts that include the total of the number of items purchased and the price of each item. 
 
--Concerning filter item:
-  -Lowest to highest (reversed)
-  -Filter with brand
-  -Search the name of item
+* Concerning filter item:
+  * Lowest to highest (reversed)
+  * Filter with brand
+  * Search the name of item
 ## Admin page: 
 [Admin Page Link](https://capstone-2-six.vercel.app/admin.html)
