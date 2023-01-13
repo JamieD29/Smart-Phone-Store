@@ -4,7 +4,7 @@
 ## Trang user: 
 [User Page Link](https://capstone-2-six.vercel.app/)!
 
-![image description](relative/path/in/repository/to/image.svg)
+![stack Overflow](http://lmsotfy.com/so.png)
 
 
 ## Trang admin: 
