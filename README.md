@@ -20,3 +20,19 @@ All functions in this page:
   * Search the name of item
 ## Admin page: 
 [Admin Page Link](https://capstone-2-six.vercel.app/admin.html)
+
+![Admin Page](https://user-images.githubusercontent.com/115157278/212229467-cf7a6734-59d3-4e3f-b3e1-bac19813da45.png)
+
+All functions in this page: 
+
+* Addmin can add the new item to a list
+
+* Regarding item form page:
+  * Admin has to fill up the form with the true value of validation of form
+
+* Edit the item with the form to update(all checking value is similar the adding form) 
+* Delete the item
+
+* Concerning filter item:
+  * Filter with brand (If admin adds the new brand, the filter option will update it in the brand option)
+  * Search the name of item
